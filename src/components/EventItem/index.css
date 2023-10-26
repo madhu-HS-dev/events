@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.event-item-container {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.image-url {
+  width: 250px;
+}
+
+.name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.location {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
